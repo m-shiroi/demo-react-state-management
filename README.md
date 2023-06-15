@@ -12,7 +12,7 @@ You can change each color of the 3-color flag on Page 1. Then, move Page 2, you 
 The flag consists of useState, useReducer, and Context from left to right.  
 On page 2, the two colors on the left returns to the initial color.
 
-![image](https://github.com/m-shiroi/demo-react-state-management/assets/98746670/0126034e-7c50-486c-b4e5-50caa9bf8eb6)
+<img width="482" alt="3-color flag" src="https://github.com/m-shiroi/demo-react-state-management/assets/98746670/f2b1d64f-afba-4a7c-892c-bb5cae111bc0">
 
 ## Check
 
